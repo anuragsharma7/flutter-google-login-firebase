@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "338204996244",
+    "project_id": "caraimanpushapp",
+    "storage_bucket": "caraimanpushapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338204996244:android:5034ae5035ee2625b6ba81",
+        "android_client_info": {
+          "package_name": "com.example.caraimanpushnotiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338204996244-fbnv2ltk23nll88ph00qpdb9042it4r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHCpXmYuwi2TGXvlfZvxvt7n_qydkvAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338204996244-fbnv2ltk23nll88ph00qpdb9042it4r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
